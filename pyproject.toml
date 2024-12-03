@@ -1,0 +1,10 @@
+[project]
+name = "logfire-apache-beam2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "apache-beam>=2.61.0",
+    "logfire>=2.6.0",
+]
